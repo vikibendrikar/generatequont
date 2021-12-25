@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+#container{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    border: 3px solid firebrick;
+    margin: 0 auto;
+    text-align: center;
+}
+#btn{
+    margin: 45px;
+    height: 50px;
+    width: 140px;
+    font-size: 15px;
+    background-color: fuchsia;
+    border-radius: 2px;
+}
+#output{
+    margin: 20px;
+    font-size: 20px;
+    color: ghostwhite;
+}
